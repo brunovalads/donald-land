@@ -5,7 +5,7 @@
 --##                                                               ## 
 --##   Author: Bruno Valadão Cunha (BrunoValads)                   ##
 --##                                                               ## 
---##   Git repository: https://github.com/brunovalads/ __________  ## 
+--##   Git repository: https://github.com/brunovalads/donald-land  ##
 --##                                                               ## 
 --###################################################################
 
